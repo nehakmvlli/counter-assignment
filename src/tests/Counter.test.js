@@ -5,7 +5,7 @@ import { render, screen, fireEvent } from '@testing-library/react';
 import Counter from '../components/Counter';
 
 beforeEach(() => {
-  // Render the Code component here
+  // Render the Code component here, Rendered success
   render(<Counter />);
 })
 
